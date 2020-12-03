@@ -43,3 +43,78 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ##### Titulo 5
 ###### Titulo 6
 
+Mi nombre es **Rodman Iñiguez**, me gusta la ~~computación~~
+
+## Listas ordenadas
+las listas ordenadas son las siguientes:
+1.  Lunes
+1.  Martes
+1.  Miércoles
+
+## Listas no ordenadas
+las listas no ordenadas son las siguientes:
+-  Manzana
+-  Piña
+-  Peras
+
+## Links
+Quiero ir a [Google](https://www.google.com)
+
+Quiero ir a [Google](https://www.google.com "Google") y se mostrará un msj
+
+## Imagen
+![carro](https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/751/beechmont-ford-mustang-gt_100751142.jpg "Mustang GT")
+<img src="https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/751/beechmont-ford-mustang-gt_100751142.jpg" height="300px" >
+
+## Código
+En `python` se puede crear variables vacias
+
+```python
+print("Hola mundo")
+```
+```kotlin
+val nombre = "Rodman"
+```
+```javascript
+funtion comer(){
+}
+```
+```xml
+<hola fonetica="3">Como estas</hola>
+```
+```
+$ apt get install xxxx
+$ ECHO hola
+$ apt update
+```
+
+## Tablas
+| Nombre | Apellido |
+| --- | --- |
+| Rodman | Iñiguez |
+| Xavier | Sarango |
+
+## Quotes
+Cita 1
+> laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarquisima y pues más y más
+> igual sigo siendo parte de la cita
+
+Otra cita
+> uno
+> dos
+> tres
+> **Rodman** `Iñiguez`
+
+## Lineas separadoras y HTML
+
+Contenido 1
+---
+Contenido 2
+---
+
+<p>Hola amigos **1como estas** <strong>2COMO ESTAS</strong> </p>
+
+
+
+
+
